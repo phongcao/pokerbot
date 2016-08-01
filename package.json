@@ -1,0 +1,28 @@
+{
+  "name": "pokerbot",
+  "version": "1.0.0",
+  "description": "A bot that plays poker",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phongcao/pokerbot.git"
+  },
+  "keywords": [
+    "botframework"
+  ],
+  "author": "Phong Cao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phongcao/pokerbot/issues"
+  },
+  "homepage": "https://github.com/phongcao/pokerbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.1.1",
+    "canvas": "^1.4.0",
+    "restify": "^4.1.1"
+  }
+}
