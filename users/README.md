@@ -1,2 +1,0 @@
-# pokerbot
-Poker Bot
